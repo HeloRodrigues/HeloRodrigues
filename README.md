@@ -5,13 +5,13 @@
 
 I’m a self-thought Frontend developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
 
-A few things about me:
+A few words about me:
 
 - 👩‍⚕️ -> 👩‍💻 Changing career from Nursing to Software development
 - 🤓 I’m currently learning ReactJS and REST APIs
-- 🤝 Looking for productive collaborations
+- 🤝 Looking for productive collaborations (Currently loooking for a full-time/part-time Trainee position) 
 - 🙃 Curious, proactive, teamplayer and addicted to coffee ☕
-- 📫 How to reach me: haraurelio@gmail.com or over on https://www.linkedin.com/in/haraurelio/
+- 📫 You can reach me by email: haraurelio@gmail.com or over Linkedin: https://www.linkedin.com/in/haraurelio/
 
 
 
