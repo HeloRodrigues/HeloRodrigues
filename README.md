@@ -1,5 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/99715716/226182492-dadbfaf8-880b-4e44-880a-9be2a2a864c1.png)
-
+![Dark Blue Professional Freelance Twitter Header (1)](https://user-images.githubusercontent.com/99715716/226195314-fb7c0733-1792-4da7-a1fb-c32781de53a2.png)
 
 👋 Hi!
 
