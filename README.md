@@ -7,7 +7,7 @@ I’m a self-thought Frontend developer, building my way up to the IT world. I�
 **A few words about me:**
 
 - 👩‍⚕️ -> 👩‍💻 Changing career from Nursing to Software development
-- 🤓 I’m currently learning ReactJS, REST APIs and Redux 
+- 🤓 I’m currently learning Redux 
 - 🙃 Curious, proactive, teamplayer and addicted to coffee ☕
 - 📫 You can reach me by email: haraurelio@gmail.com or over Linkedin: https://www.linkedin.com/in/haraurelio/
 
