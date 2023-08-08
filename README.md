@@ -2,13 +2,13 @@
 
 👋 Hi!
 
-I’m a self-thought Frontend developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
+I’m a self-thought front-end developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
 
 **A few words about me:**
 
 - 👩‍⚕️ -> 👩‍💻 Changing career from Nursing to Software development
-- 🤓 I’m currently learning Redux 
-- 🙃 Curious, proactive, teamplayer and addicted to coffee ☕
+- 🤓 Diving into the full-stack path with Node.js
+- 🙃 Curious, proactive, team player, and addicted to coffee ☕
 - 📫 You can reach me by email: haraurelio@gmail.com or over Linkedin: https://www.linkedin.com/in/haraurelio/
 
 
