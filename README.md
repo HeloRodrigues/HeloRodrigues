@@ -12,9 +12,6 @@ I’m a self-thought front-end developer, building my way up to the IT world. I�
 - 📫 You can reach me by email: haraurelio@gmail.com or over Linkedin: https://www.linkedin.com/in/haraurelio/
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=HeloRodrigues&show_icons=true&theme=vue&count_private=true) ![github stats](https://github-readme-stats.vercel.app/api?username=HeloRodrigues&show_icons=true&theme=vue&count_private=true)
- 
-
 
 
  **Languages and Tools:** 
