@@ -2,7 +2,7 @@
 
 👋 Hi!
 
-I’m a self-thought front-end developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
+I’m a self-taught front-end developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
 
 **A few words about me:**
 
