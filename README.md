@@ -1,5 +1,3 @@
-![Dark Blue Professional Freelance Twitter Header (1)](https://user-images.githubusercontent.com/99715716/226195314-fb7c0733-1792-4da7-a1fb-c32781de53a2.png)
-
 👋 Hi!
 
 I’m a self-taught front-end developer, building my way up to the IT world. I’m passionate about learning new things and driven by challenges.
